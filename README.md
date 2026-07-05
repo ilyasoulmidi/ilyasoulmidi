@@ -325,35 +325,62 @@ Developed **LogDash**, an internal web platform for analyzing IntraMedis logs. T
 </div>
 
 ---
-
 ## Certifications
 
-### AWS
+### Google
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20Track-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Data%20Engineering%20Foundations-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Agile%20Project%20Management-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### Oracle
+### IBM
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle%20University-AI%20for%20You-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-5B21B6?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Introduction%20aux%20bases%20de%20donn%C3%A9es%20NoSQL-4F46E5?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Apprentissage%20automatique%20avec%20Python-7C3AED?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-### NPTEL
+### Duke University
 
 <p>
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20Foundations-4338CA?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20Concepts-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Duke%20University-Introduction%20%C3%A0%20l'apprentissage%20automatique-5B21B6?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
-### Cisco
+### UC San Diego
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Foundations-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/UC%20San%20Diego-Introduction%20to%20Big%20Data-4338CA?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
+
+### Deloitte
+
+<p>
+  <img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge&logo=deloitte&logoColor=white" />
+</p>
+
+### University of Michigan
+
+<p>
+  <img src="https://img.shields.io/badge/University%20of%20Michigan-Utiliser%20Python%20pour%20acc%C3%A9der%20aux%20donn%C3%A9es%20Web-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/University%20of%20Michigan-Interactivit%C3%A9%20avec%20JavaScript-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</p>
+
+### The Hong Kong University of Science and Technology
+
+<p>
+  <img src="https://img.shields.io/badge/HKUST-G%C3%A9nie%20logiciel%3A%20conception%20et%20gestion%20de%20projets-312E81?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
+
+### Johns Hopkins University
+
+<p>
+  <img src="https://img.shields.io/badge/Johns%20Hopkins-HTML%2C%20CSS%20et%20Javascript%20pour%20d%C3%A9veloppeurs%20web-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+</p>
+
+### EPFL
+
+<p>
+  <img src="https://img.shields.io/badge/EPFL-Introduction%20%C3%A0%20la%20programmation%20orient%C3%A9e%20objet%20(C%2B%2B)-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 ---
