@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=B794F4&center=true&vCenter=true&width=950&lines=5th-Year+Engineering+Student+%40+EMSI+Tangier;Artificial+Intelligence+%26+Data+Science+Track;RAG+%7C+LLM+%7C+Machine+Learning+%7C+Data+Engineering;Full-Stack+Web+%26+Mobile+Developer;Looking+for+a+6-month+PFE+Internship+-+Jan+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=B794F4&center=true&vCenter=true&width=950&lines=5th-Year+Engineering+Student+%40+EMSI+Tangier;Artificial+Intelligence+%26+Data+Science+Track;RAG+%7C+LLM+%7C+Machine+Learning+%7C+Data+Engineering;Full-Stack+Web+%26+Mobile+Developer;Looking+for+a+6-month+PFE+Internship+-+Feb+2027" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/EMSI-5th%20Year%20Engineering%20Student-6D28D9?style=flat-square&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Specialization-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Morocco-4338CA?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Jan%202027-10B981?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Feb%202027-10B981?style=flat-square&logo=rocket&logoColor=white" />
 
 <br/><br/>
 
@@ -44,14 +44,14 @@ I am a **5th-year engineering student at EMSI Tangier** (Computer Engineering & 
 
 I enjoy turning ideas into working projects: RAG assistants, recommendation systems, machine learning pipelines, data platforms and full-stack applications. Through my internships at **OCP**, **Winbey IT** (France) and **SQLI** and my academic projects, I learn by building things that solve real problems.
 
-I am currently looking for a **6-month PFE (end-of-studies) internship starting January 2027** in AI, Data Engineering or Generative AI.
+I am currently looking for a **6-month PFE (end-of-studies) internship starting February 2027**, to contribute to **AI / Data** or **SAP SD/MM** projects.
 
 <br/>
 
 ```yaml
 currently:
   school: EMSI Tangier — 5th year, AI & Data Science
-  looking_for: 6-month PFE internship (from January 2027)
+  looking_for: 6-month PFE internship (from February 2027) — AI / Data or SAP SD/MM
   focus: [Generative AI & RAG, Machine Learning, Data Engineering]
 
 interests:
@@ -411,7 +411,7 @@ building:
   - Full-stack and mobile applications
 
 next_step:
-  - 6-month PFE internship from January 2027 (AI, Data Engineering, Generative AI)
+  - 6-month PFE internship from February 2027 (AI / Data or SAP SD/MM)
 ```
 
 ---
