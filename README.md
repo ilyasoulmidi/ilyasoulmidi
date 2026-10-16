@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,45:302B63,100:8E2DE2&text=Ilyas%20Oulmidi&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Data%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,45:302B63,100:8E2DE2&text=Ilyas%20Oulmidi&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Engineering%20Student%20%7C%20AI%20%26%20Data%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=B794F4&center=true&vCenter=true&width=950&lines=4th-Year+Computer+Engineering+Student;Artificial+Intelligence+%26+Data+Science+Track;Full-Stack+Web+%26+Mobile+Developer;Machine+Learning+%7C+Big+Data+%7C+Data+Engineering;Building+Scalable%2C+Useful%2C+Production-Oriented+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=B794F4&center=true&vCenter=true&width=950&lines=5th-Year+Engineering+Student+%40+EMSI+Tangier;Artificial+Intelligence+%26+Data+Science+Track;RAG+%7C+LLM+%7C+Machine+Learning+%7C+Data+Engineering;Full-Stack+Web+%26+Mobile+Developer;Looking+for+a+6-month+PFE+Internship+-+Jan+2027" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EMSI-Engineering%20Student-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Engineering-Networks-4F46E5?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20Data-Specialization-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Morocco%20%7C%20Remote-4338CA?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/EMSI-5th%20Year%20Engineering%20Student-6D28D9?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Specialization-7C3AED?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Morocco-4338CA?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-PFE%20Internship%20%C2%B7%20Jan%202027-10B981?style=flat-square&logo=rocket&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://github.com/ilyasoulmidi?tab=repositories">
+<a href="https://ilyas-oulmidi.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ilyas-oulmidi">
@@ -40,36 +40,25 @@
 
 ## About
 
-I am a 4th-year Computer Engineering and Networks student at EMSI Tangier, specializing in Artificial Intelligence and Data Science. I am passionate about building intelligent, useful, and scalable software solutions that combine strong engineering fundamentals with modern AI, data, full-stack development, and product-oriented engineering practices.
+I am a **5th-year engineering student at EMSI Tangier** (Computer Engineering & Networks), specializing in **Artificial Intelligence and Data Science**.
 
-My work focuses on software engineering, machine learning, data-driven applications, full-stack platforms, mobile development, backend APIs, and data engineering pipelines. I enjoy transforming real-world problems into structured technical solutions through clean architecture, practical algorithms, reliable systems, and user-focused interfaces.
+I enjoy turning ideas into working projects: RAG assistants, recommendation systems, machine learning pipelines, data platforms and full-stack applications. Through my internships at **OCP** and **SQLI** and my academic projects, I learn by building things that solve real problems.
 
-I use GitHub as a professional engineering portfolio to showcase my projects, technical growth, academic work, and practical experience in AI, data science, software development, full-stack engineering, and big data systems.
+I am currently looking for a **6-month PFE (end-of-studies) internship starting January 2027** in AI, Data Engineering or Generative AI.
 
 <br/>
 
-**Open To**
-
 ```yaml
-collaboration:
-  - Academic Projects
-  - Open Source Contributions
-  - AI / ML Applications
-  - Data-Driven Platforms
-  - Full-Stack Web Applications
-  - Mobile Engineering Projects
-  - Software Engineering Projects
-  - Data Engineering Workflows
+currently:
+  school: EMSI Tangier — 5th year, AI & Data Science
+  looking_for: 6-month PFE internship (from January 2027)
+  focus: [Generative AI & RAG, Machine Learning, Data Engineering]
 
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Big Data
-  - Full-Stack Development
-  - Mobile Development
-  - Backend Engineering
-  - Cloud and DevOps Foundations
+  - Artificial Intelligence & LLMs
+  - Machine Learning & Deep Learning
+  - Data Engineering & Big Data
+  - Full-Stack & Mobile Development
 ```
 
 ---
@@ -84,173 +73,164 @@ interests:
 
 <br/><br/>
 
-### Frontend
+### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,threejs,androidstudio,figma&theme=dark" />
 
 <br/><br/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,laravel,php,mysql,postgres,mongodb,sqlite,firebase,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,mysql,postgres,mongodb,sqlite,redis,firebase&theme=dark" />
 
 <br/><br/>
 
-### Cloud, DevOps & Tooling
+### DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-4F46E5?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-4338CA?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-312E81?style=flat-square&logo=tensorflow&logoColor=white" />
+### AI, Data & Big Data
+
+<img src="https://img.shields.io/badge/Azure%20OpenAI-6D28D9?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20%26%20LLM-4F46E5?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Scikit--Learn-4338CA?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-312E81?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-5B21B6?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-4F46E5?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-4338CA?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Airflow-312E81?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-5B21B6?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-6D28D9?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-4F46E5?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-7C3AED?style=flat-square&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Airbyte-4338CA?style=flat-square&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/MinIO-312E81?style=flat-square&logo=minio&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-5B21B6?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-6D28D9?style=flat-square&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-4F46E5?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MinIO-7C3AED?style=flat-square&logo=minio&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-4338CA?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/JIRA-312E81?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-6D28D9?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-4F46E5?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/JIRA-7C3AED?style=flat-square&logo=jira&logoColor=white" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Skills Overview
 
-| Domain                      |                Proficiency | Details                                                                                                  |
-| --------------------------- | -------------------------: | -------------------------------------------------------------------------------------------------------- |
-| Machine Learning            | Applied Project Experience | Regression, classification, clustering, feature engineering, model evaluation, Scikit-learn workflows    |
-| Deep Learning               |               Intermediate | Neural networks, MLP, PyTorch, TensorFlow, training pipelines, activation functions, optimization basics |
-| Natural Language Processing |               Intermediate | NLTK, TF-IDF, Bag of Words, text preprocessing, text mining, web scraping foundations                    |
-| Data Engineering            |               Intermediate | ETL pipelines, Airbyte, Airflow, MinIO, data cleaning, data workflow organization                        |
-| Big Data                    |               Intermediate | Hadoop ecosystem, HDFS, YARN, MapReduce concepts, distributed processing basics                          |
-| Business Intelligence       |               Intermediate | Power BI dashboards, KPI design, data visualization, analytical reporting                                |
-| Software Engineering        |               Intermediate | Full-stack development, REST APIs, database modeling, Agile/Scrum, Git-based collaboration               |
+| Domain | Details |
+| --- | --- |
+| **Generative AI** | RAG architectures, LLMs (Azure OpenAI, Groq), prompt engineering, embeddings, vector databases (ChromaDB), answer grounding |
+| **Machine Learning** | Regression, classification, clustering (HDBSCAN), XGBoost, Random Forest, cross-validation, model evaluation |
+| **Deep Learning** | Neural networks, MLP, CNN-BiLSTM-Transformer, PyTorch, TensorFlow |
+| **NLP** | NLTK, TF-IDF, lemmatization, text mining, web scraping |
+| **Data Engineering** | ETL pipelines, Airflow, Airbyte, MinIO, Snowflake (3-layer warehouse), star schema modeling |
+| **Big Data & Streaming** | Hadoop, HDFS, MapReduce, Kafka, Spark Structured Streaming |
+| **Business Intelligence** | Power BI dashboards, DAX, KPI design |
+| **Software Engineering** | FastAPI, React, Laravel, Android, REST APIs, Docker, Git, Agile/Scrum |
 
 ---
 
 ## Featured Projects
 
-<details>
-<summary><b>AI-Powered Urban Mobility Application</b></summary>
+<details open>
+<summary><b>🤖 NetResolve AI — RAG Assistant for Network Incidents</b> · <i>OCP internship · 2026</i></summary>
 
 <br/>
 
-A mobile navigation application integrating multiple AI modules to deliver intelligent routing, ETA prediction, collaborative recommendations, and personalized user experience.
+An AI assistant that helps OCP network teams resolve incidents. It combines **exact search** in the incident history (PostgreSQL) with **semantic search** (ChromaDB embeddings), then an **Azure OpenAI** LLM writes the answer. An **Airflow** pipeline feeds a 3-layer **Snowflake** warehouse, groups similar incidents with **HDBSCAN**, powers **Power BI** dashboards and emails a weekly report to administrators.
 
-| Category    | Details                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| Stack       | React Native, Expo, FastAPI, PostgreSQL, PostGIS, Firebase, OpenStreetMap, Open-Meteo                   |
-| Scale       | Mobile-first system using geospatial, weather, and user interaction data                                |
-| Performance | Route optimization using A*, ETA prediction with XGBoost, and backend designed for real-time data usage |
-| Security    | Firebase-based authentication approach, structured backend APIs, controlled data access                 |
-| Impact      | Improves urban navigation through intelligent route planning and personalized mobility recommendations  |
-| Repository  | [View GitHub](https://github.com/ilyasoulmidi?tab=repositories)                                         |
+**Stack:** Python · FastAPI · React · PostgreSQL · ChromaDB · Azure OpenAI · Airflow · Snowflake · Power BI · HDBSCAN · Docker
+**Repository:** [NetResolve_AI](https://github.com/ilyasoulmidi/NetResolve_AI)
 
-This project demonstrates the integration of software engineering, AI, data processing, geospatial systems, and mobile development. It combines practical algorithms with real-world data sources to build a complete intelligent mobility solution.
+</details>
+
+<details open>
+<summary><b>🎬 Ciné-Match — AI Movie & Series Recommender</b> · <i>2026</i></summary>
+
+<br/>
+
+A recommender that understands what you feel like watching, written in plain language (*"a thriller with a twist, not too long"*), across a catalog of **13,000 movies and series**. It uses semantic search with embeddings, a hybrid score (query, user tastes and collaborative filtering on MovieLens ratings) and an LLM that explains each recommendation, with an **anti-hallucination check**. Also includes a **RAG movie assistant**, a **group mode** and streaming availability by country.
+
+**Stack:** FastAPI · React 19 · Tailwind · PostgreSQL · SQLAlchemy · sentence-transformers · ChromaDB · Groq LLM · TMDB · JWT
+**Repository:** [CinemaMatch](https://github.com/ilyasoulmidi/CinemaMatch)
+
+</details>
+
+<details open>
+<summary><b>🛡️ Real-Time Network Intrusion Detection & Alerting</b> · <i>2026</i></summary>
+
+<br/>
+
+Threat classification on **3.1 million CIC-IDS2017 network flows** across **15 classes**. Machine Learning and Deep Learning models are integrated into a **real-time pipeline** with Kafka and Spark Structured Streaming, which generates alerts as traffic arrives.
+
+**Stack:** Random Forest · XGBoost · CNN-BiLSTM-Transformer · Kafka · Spark Structured Streaming · MongoDB · Streamlit · Docker
 
 </details>
 
 <details>
-<summary><b>Machine Learning Car Price Prediction</b></summary>
+<summary><b>📩 SMS Spam Detection — ML & NLP</b> · <i>2026</i></summary>
 
 <br/>
 
-A machine learning project designed to predict car prices based on key vehicle characteristics such as mileage, year, brand, and other structured features.
+NLP pipeline (lemmatization, TF-IDF) on **5,572 SMS** and comparison of **5 models** tuned with cross-validation: **F1-score improved from 0.93 to 0.96**. Served through a **FastAPI** API with a **3D interface** that explains each prediction word by word.
 
-| Category    | Details                                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------------ |
-| Stack       | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook                       |
-| Scale       | Structured dataset with multiple vehicle attributes used for regression modeling                 |
-| Performance | End-to-end pipeline including data cleaning, feature engineering, training, and model evaluation |
-| Security    | Local notebook-based workflow with clean data handling and reproducible experiments              |
-| Impact      | Demonstrates applied machine learning for business-oriented price estimation                     |
-| Repository  | [View GitHub](https://github.com/ilyasoulmidi?tab=repositories)                                  |
-
-This project highlights the complete machine learning workflow, from raw data preparation to model training and performance interpretation. It reflects strong foundations in regression modeling, exploratory data analysis, and evaluation.
+**Stack:** Python · NLTK · Scikit-learn · FastAPI · React · Three.js
+**Repository:** [spam-detection](https://github.com/ilyasoulmidi/spam-detection)
 
 </details>
 
 <details>
-<summary><b>University Club Management Platform</b></summary>
+<summary><b>🗺️ Smart Multimodal Trip Planner</b> · <i>2026</i></summary>
 
 <br/>
 
-A centralized full-stack web platform designed to manage university club applications, interviews, events, role-based dashboards, and administrative follow-up.
+A mobile app that finds the best city trip by combining several transport modes, optimized by time, cost or distance (**A\*** and **Dijkstra**). AI personalizes each trip: collaborative-filtering recommendations, Bayesian preference learning and **ETA prediction with XGBoost**, with live map and weather data.
 
-| Category    | Details                                                                                 |
-| ----------- | --------------------------------------------------------------------------------------- |
-| Stack       | React.js, Laravel, MySQL, REST APIs                                                     |
-| Scale       | Multi-role platform for students, club administrators, and system administrators        |
-| Performance | Structured frontend components, organized backend logic, and relational database design |
-| Security    | Role-based access logic, authentication flow, and controlled user actions               |
-| Impact      | Replaces paper and Excel-based club management with a transparent digital workflow      |
-| Repository  | [View GitHub](https://github.com/ilyasoulmidi?tab=repositories)                         |
-
-This project demonstrates practical full-stack engineering through frontend development, backend architecture, database modeling, user workflows, dashboard logic, and role-based platform design.
+**Stack:** React Native / Expo · FastAPI · PostgreSQL / PostGIS · Firebase · Redis · OpenStreetMap · Open-Meteo
 
 </details>
 
 <details>
-<summary><b>Medical Appointment Management Android Application</b></summary>
+<summary><b>🛒 E-commerce Product Recommendation by Repurchase Prediction</b> · <i>2026</i></summary>
 
 <br/>
 
-A native Android application for managing medical appointments through three user profiles: patient, doctor, and secretary.
+A **Hadoop cluster** and a **MapReduce** pipeline process e-commerce data in a distributed way. A **Random Forest** model predicts each product's repurchase potential to decide which ones to recommend, with results shown in a React dashboard.
 
-| Category    | Details                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Stack       | Android Studio, Java, XML, SQLite                                                        |
-| Scale       | Multi-profile mobile application with appointment and user management modules            |
-| Performance | Native Android interface with local database management and structured application logic |
-| Security    | User authentication logic and controlled access by role                                  |
-| Impact      | Simplifies appointment booking, user management, and medical scheduling workflows        |
-| Repository  | [GestionRDV](https://github.com/ilyasoulmidi/GestionRDV)                                 |
-
-This project demonstrates Android development skills using Java, XML layouts, SQLite, and modular application logic. It focuses on practical healthcare workflow digitization and role-based user interaction.
+**Stack:** Python · Hadoop · HDFS · MapReduce · Scikit-learn · React.js
 
 </details>
 
 <details>
-<summary><b>LogDash — Internal Log Analysis Platform</b></summary>
+<summary><b>📊 EMSI 360° — Decision Support System</b> · <i>2026</i></summary>
 
 <br/>
 
-A web platform developed during a Full Stack Developer experience at SQLI Morocco to analyze internal IntraMedis logs through import, parsing, filtering, assignment, status tracking, comments, and traceability.
+A complete BI solution to steer the school: a Python pipeline generates **13 realistic tables**, stored in a **star-schema** data warehouse (SQLite) connected to Power BI. A **9-page interactive dashboard** covers enrolments, academic performance, graduation and internships, student life, HR, administration, finance and satisfaction, with KPIs in **DAX**.
 
-| Category    | Details                                                                            |
-| ----------- | ---------------------------------------------------------------------------------- |
-| Stack       | PHP, JavaScript, MySQL, Docker, HTML, CSS                                          |
-| Scale       | Internal log analysis platform supporting collaborative log processing workflows   |
-| Performance | Dynamic filters, structured parsing, and workflow-based status tracking            |
-| Security    | Internal platform logic with controlled data handling and collaborative tracking   |
-| Impact      | Improves log analysis efficiency, team collaboration, and operational traceability |
-| Repository  | Private Internal Project                                                           |
-
-This project demonstrates professional full-stack development in a real company environment, with emphasis on backend logic, data processing, collaborative workflows, Docker-based setup, and user-oriented internal tooling.
+**Stack:** Power BI · DAX · Python · Pandas · SQLite · Star Schema
 
 </details>
 
 <details>
-<summary><b>Order Management Application</b></summary>
+<summary><b>More projects</b></summary>
 
 <br/>
 
-A Java-based application focused on managing orders, structured workflows, and core CRUD operations.
-
-| Category    | Details                                                                      |
-| ----------- | ---------------------------------------------------------------------------- |
-| Stack       | Java, OOP, Data Management, Application Logic                                |
-| Scale       | Academic software project focused on structured business workflow management |
-| Performance | Organized Java logic with reusable classes and maintainable structure        |
-| Security    | Controlled application logic and clean user operation handling               |
-| Impact      | Strengthens object-oriented programming and software design foundations      |
-| Repository  | [gestion-commandes](https://github.com/ilyasoulmidi/gestion-commandes)       |
-
-This project highlights core software engineering skills through object-oriented programming, structured application design, CRUD logic, and progressive feature development.
+| Project | Description | Stack | Repository |
+| --- | --- | --- | --- |
+| **LogDash** (SQLI internship, 2025) | Internal platform that turns raw IntraMedis logs into usable insights: import, parsing, dynamic filters, assignment, status tracking, comments and traceability | PHP, JavaScript, MySQL, Docker | Private |
+| **University Club Management** (2025) | Replaces paper and Excel: online applications, interviews, events and role-based dashboards | React.js, Laravel, MySQL | — |
+| **Medical Appointment App** (2025) | Native Android app with patient, doctor and secretary profiles: authentication, user management and booking | Android Studio, Java, XML, SQLite | [GestionRDV](https://github.com/ilyasoulmidi/GestionRDV) |
+| **Timetable Management Platform** (2025) | Admin, teacher and student spaces to plan classes, rooms and schedules, with real-time notifications | PHP, MySQL, JavaScript, Bootstrap | — |
+| **Ping Pong Game** (2025) | Local multiplayer and solo mode against an adaptive AI, built up to an OOP version with a graphical interface | Python, Pygame | — |
+| **Car Price Prediction** | End-to-end regression pipeline: cleaning, feature engineering, training and evaluation | Python, Pandas, Scikit-learn | — |
+| **Order Management App** | Object-oriented Java application for order workflows and CRUD operations | Java, OOP | [gestion-commandes](https://github.com/ilyasoulmidi/gestion-commandes) |
 
 </details>
 
@@ -258,130 +238,68 @@ This project highlights core software engineering skills through object-oriented
 
 ## Experience
 
-### Full Stack Developer Intern
+### 🏭 AI & Data Intern — OCP
+**Jorf Lasfar, Morocco** · `July 2026 — August 2026`
 
-**SQLI Morocco — Oujda**
-`July 2025`
+* Designed and delivered **NetResolve AI**, a network incident resolution platform built on a **RAG architecture**: exact search in PostgreSQL + semantic search with ChromaDB embeddings, answers generated by an **Azure OpenAI** LLM.
+* Orchestrated with **Airflow** an analytics pipeline into a 3-layer **Snowflake** warehouse, including **HDBSCAN** clustering and **Power BI** dashboards.
+* Automated a weekly report emailed to administrators.
 
-Developed **LogDash**, an internal web platform for analyzing IntraMedis logs. The platform supports log import, parsing, dynamic filtering, collaborative assignment, status tracking, comments, and traceability.
-
-**Scope of Work**
-
-* Developed an internal log analysis platform using PHP, JavaScript, MySQL, Docker, HTML, and CSS.
-* Implemented log import, parsing logic, and dynamic filtering features.
-* Built collaborative workflow features for log assignment and status monitoring.
-* Added comment and traceability mechanisms to improve team follow-up.
-* Worked in a professional development environment with practical software delivery constraints.
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-4F46E5?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-7C3AED?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-4338CA?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-312E81?style=flat-square&logo=powerbi&logoColor=white" />
 
 <br/>
+
+### 💻 Full Stack Developer Intern — SQLI Morocco
+**Oujda, Morocco** · `July 2025`
+
+* Delivered **LogDash**, an internal web platform to analyze IntraMedis logs: import, parsing and dynamic filters.
+* Implemented a collaborative workflow: log assignment, status tracking, comments and traceability.
 
 <img src="https://img.shields.io/badge/PHP-6D28D9?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-4338CA?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-312E81?style=flat-square" />
-
-<br/><br/>
-
-### Engineering Student — AI & Data Track
-
-**Moroccan School of Engineering Sciences — EMSI Tangier**
-`2024 — Present`
-
-4th-year engineering student in Computer Engineering and Networks, specializing in Artificial Intelligence and Data Science.
-
-**Scope of Work**
-
-* Built academic projects in AI, machine learning, full-stack development, mobile development, big data, and data engineering.
-* Designed backend APIs, relational databases, mobile applications, dashboards, and intelligent systems.
-* Applied machine learning workflows using Python, Pandas, NumPy, Scikit-learn, PyTorch, and TensorFlow.
-* Worked with data architecture concepts including ETL, Airbyte, Airflow, MinIO, and Hadoop MapReduce.
-* Practiced project management methods including Agile/Scrum, JIRA, Gantt, PERT, WBS, and MS Project.
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Data-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Engineering-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Full--Stack-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Big%20Data-4338CA?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Engineering-312E81?style=flat-square" />
+### 🎓 Engineering Student — AI & Data Science
+**EMSI Tangier** · `2022 — Present`
+
+* **2024 — Present:** Engineering cycle in Computer Engineering & Networks, AI & Data Science specialization (5th year).
+* **2022 — 2024:** Integrated preparatory classes.
+* Active member of the **EMSI Developer Student Club (EDSC)**.
 
 ---
 
-## Achievements
+## Certifications
 
 <div align="center">
 
-| Recognition                        | Details                                                                                                     |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| AI & Data Engineering Track        | 4th-year Computer Engineering and Networks student specializing in Artificial Intelligence and Data Science |
-| Professional Internship Experience | Completed a Full Stack Developer internship at SQLI Morocco with an internal log analysis platform          |
-| Full-Stack Project Delivery        | Built web platforms using React.js, Laravel, PHP, JavaScript, MySQL, and REST-oriented architectures        |
-| Mobile Development Practice        | Developed Android and React Native mobile applications with structured user workflows                       |
-| Machine Learning Practice          | Built ML pipelines using Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, and visualization tools     |
-| Big Data & Data Engineering        | Worked with Hadoop, HDFS, YARN, MapReduce, ETL pipelines, Airbyte, Airflow, and MinIO                       |
-| Project Management Skills          | Applied Agile/Scrum, JIRA, Gantt, PERT, WBS, and MS Project in academic and technical projects              |
+| | Certification | Issuer | Date | Credential |
+| :---: | --- | --- | :---: | :---: |
+| 🧠 | **Introduction to Machine Learning** | Duke University | Jan 2026 | [Verify](https://coursera.org/verify/PK7F6XQ5SNGF) |
+| 🧠 | **Machine Learning with Python** | IBM | Dec 2025 | [Verify](https://coursera.org/verify/E2O4JBZS8LG2) |
+| 📦 | **Introduction to Big Data** | UC San Diego | Apr 2026 | [Verify](https://coursera.org/verify/XSP4YS03FFVV) |
+| 🗄️ | **Introduction to NoSQL Databases** | IBM | Dec 2025 | [Verify](https://coursera.org/verify/BWFLQN1WJNAO) |
+| 🐍 | **Using Python to Access Web Data** | University of Michigan | Apr 2025 | [Verify](https://coursera.org/verify/R5LVO4O47T1D) |
+| 🤖 | **AI for You** | Oracle University | — | — |
+| 📊 | **Data Analytics Job Simulation** | Deloitte | — | — |
+| 📋 | **Agile Project Management** | Google | May 2026 | [Verify](https://coursera.org/verify/2OIHAV98SIYZ) |
+| 🏗️ | **Software Engineering: Software Design and Project Management** | HKUST | Mar 2025 | [Verify](https://coursera.org/verify/D7ZKJPQSRRGW) |
+| 🌐 | **HTML, CSS, and JavaScript for Web Developers** | Johns Hopkins University | Jan 2025 | [Verify](https://coursera.org/verify/1PTL4LQC9YGF) |
+| ⚡ | **Interactivity with JavaScript** | University of Michigan | Jan 2025 | [Verify](https://coursera.org/verify/4YZX0JIWP0XN) |
+| 🧩 | **Introduction à la programmation orientée objet (C++)** | EPFL | Jan 2025 | [Verify](https://coursera.org/verify/E0D6VFQKXYCE) |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Certifications-12-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Verified%20on-Coursera-4F46E5?style=for-the-badge&logo=coursera&logoColor=white" />
 
 </div>
-
----
-## Certifications
-
-### Google
-
-<p>
-  <img src="https://img.shields.io/badge/Google-Agile%20Project%20Management-6D28D9?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### IBM
-
-<p>
-  <img src="https://img.shields.io/badge/IBM-Introduction%20aux%20bases%20de%20donn%C3%A9es%20NoSQL-4F46E5?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Apprentissage%20automatique%20avec%20Python-7C3AED?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-### Duke University
-
-<p>
-  <img src="https://img.shields.io/badge/Duke%20University-Introduction%20%C3%A0%20l'apprentissage%20automatique-5B21B6?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### UC San Diego
-
-<p>
-  <img src="https://img.shields.io/badge/UC%20San%20Diego-Introduction%20to%20Big%20Data-4338CA?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Deloitte
-
-<p>
-  <img src="https://img.shields.io/badge/Deloitte%20Australia-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge&logo=deloitte&logoColor=white" />
-</p>
-
-### University of Michigan
-
-<p>
-  <img src="https://img.shields.io/badge/University%20of%20Michigan-Utiliser%20Python%20pour%20acc%C3%A9der%20aux%20donn%C3%A9es%20Web-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/University%20of%20Michigan-Interactivit%C3%A9%20avec%20JavaScript-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</p>
-
-### The Hong Kong University of Science and Technology
-
-<p>
-  <img src="https://img.shields.io/badge/HKUST-G%C3%A9nie%20logiciel%3A%20conception%20et%20gestion%20de%20projets-312E81?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Johns Hopkins University
-
-<p>
-  <img src="https://img.shields.io/badge/Johns%20Hopkins-HTML%2C%20CSS%20et%20Javascript%20pour%20d%C3%A9veloppeurs%20web-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### EPFL
-
-<p>
-  <img src="https://img.shields.io/badge/EPFL-Introduction%20%C3%A0%20la%20programmation%20orient%C3%A9e%20objet%20(C%2B%2B)-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
 
 ---
 
@@ -454,33 +372,19 @@ Developed **LogDash**, an internal web platform for analyzing IntraMedis logs. T
 ## Current Focus
 
 ```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning with PyTorch and TensorFlow
-  - Data Engineering Pipelines
-  - Big Data with Hadoop and MapReduce
-  - Backend API Design with FastAPI and Laravel
+learning:
+  - Generative AI: RAG, LLM evaluation and grounding
+  - Real-time data processing with Kafka and Spark
+  - Deep Learning with PyTorch
+  - MLOps foundations
 
-Building:
-  - AI-Powered Urban Mobility Applications
-  - Full-Stack Academic Platforms
-  - Machine Learning Prediction Systems
-  - Android and React Native Mobile Apps
-  - Data Dashboards and BI Reports
+building:
+  - AI assistants and recommendation systems
+  - Data pipelines and BI dashboards
+  - Full-stack and mobile applications
 
-Exploring:
-  - MLOps Foundations
-  - Real-Time Data Processing
-  - Geospatial Data with PostGIS
-  - Recommendation Systems
-  - Cloud-Native Development Practices
-
-Open To:
-  - Open Source Collaboration
-  - AI and Data Science Projects
-  - Full-Stack Development Projects
-  - Data Engineering Projects
-  - Academic and Research-Oriented Work
+next_step:
+  - 6-month PFE internship from January 2027 (AI, Data Engineering, Generative AI)
 ```
 
 ---
@@ -489,17 +393,17 @@ Open To:
 
 <div align="center">
 
+<a href="https://ilyas-oulmidi.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="mailto:Ilyas.Oulmidi@emsi-edu.ma">
-  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ilyas-oulmidi">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ilyasoulmidi">
   <img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ilyasoulmidi?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
@@ -508,7 +412,7 @@ Open To:
 
 <div align="center">
 
-**Building intelligent software, scalable data solutions, and meaningful digital products.**
+**Building intelligent software, useful data solutions and meaningful digital products.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8E2DE2,50:302B63,100:0F0C29" />
 
