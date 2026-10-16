@@ -150,6 +150,17 @@ An AI assistant that helps OCP network teams resolve incidents. It combines **ex
 </details>
 
 <details open>
+<summary><b>🗺️ Smart Multimodal Trip Planner</b> · <i>2026</i></summary>
+
+<br/>
+
+A mobile app that finds the best city trip by combining several transport modes, optimized by time, cost or distance (**A\*** and **Dijkstra**). AI personalizes each trip: collaborative-filtering recommendations, Bayesian preference learning and **ETA prediction with XGBoost**, with live map and weather data.
+
+**Stack:** React Native / Expo · FastAPI · PostgreSQL / PostGIS · Firebase · Redis · OpenStreetMap · Open-Meteo
+
+</details>
+
+<details open>
 <summary><b>🎬 Ciné-Match — AI Movie & Series Recommender</b> · <i>2026</i></summary>
 
 <br/>
@@ -161,7 +172,7 @@ A recommender that understands what you feel like watching, written in plain lan
 
 </details>
 
-<details open>
+<details>
 <summary><b>🖼️ DécriScène — AI Image Analysis</b> · <i>2026</i></summary>
 
 <br/>
@@ -173,7 +184,7 @@ An app that understands a photo: it **describes the scene in French**, detects *
 
 </details>
 
-<details open>
+<details>
 <summary><b>🛡️ Real-Time Network Intrusion Detection & Alerting</b> · <i>2026</i></summary>
 
 <br/>
@@ -193,17 +204,6 @@ NLP pipeline (lemmatization, TF-IDF) on **5,572 SMS** and comparison of **5 mode
 
 **Stack:** Python · NLTK · Scikit-learn · FastAPI · React · Three.js
 **Repository:** [spam-detection](https://github.com/ilyasoulmidi/spam-detection)
-
-</details>
-
-<details>
-<summary><b>🗺️ Smart Multimodal Trip Planner</b> · <i>2026</i></summary>
-
-<br/>
-
-A mobile app that finds the best city trip by combining several transport modes, optimized by time, cost or distance (**A\*** and **Dijkstra**). AI personalizes each trip: collaborative-filtering recommendations, Bayesian preference learning and **ETA prediction with XGBoost**, with live map and weather data.
-
-**Stack:** React Native / Expo · FastAPI · PostgreSQL / PostGIS · Firebase · Redis · OpenStreetMap · Open-Meteo
 
 </details>
 
