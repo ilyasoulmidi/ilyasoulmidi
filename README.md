@@ -42,7 +42,7 @@
 
 I am a **5th-year engineering student at EMSI Tangier** (Computer Engineering & Networks), specializing in **Artificial Intelligence and Data Science**.
 
-I enjoy turning ideas into working projects: RAG assistants, recommendation systems, machine learning pipelines, data platforms and full-stack applications. Through my internships at **OCP** and **SQLI** and my academic projects, I learn by building things that solve real problems.
+I enjoy turning ideas into working projects: RAG assistants, recommendation systems, machine learning pipelines, data platforms and full-stack applications. Through my internships at **OCP**, **Winbey IT** (France) and **SQLI** and my academic projects, I learn by building things that solve real problems.
 
 I am currently looking for a **6-month PFE (end-of-studies) internship starting January 2027** in AI, Data Engineering or Generative AI.
 
@@ -162,6 +162,18 @@ A recommender that understands what you feel like watching, written in plain lan
 </details>
 
 <details open>
+<summary><b>🖼️ DécriScène — AI Image Analysis</b> · <i>2026</i></summary>
+
+<br/>
+
+An app that understands a photo: it **describes the scene in French**, detects **600+ object types** and **answers questions** about the image (*"How many people?"*). It combines a vision-language model (**SmolVLM**), **YOLOv8** object detection trained on Open Images V7 and offline translation (MarianMT), all running **locally with no API key**. Interactive visualization, analysis history and PDF / JSON / CSV exports.
+
+**Stack:** PyTorch · Ultralytics YOLOv8 · Hugging Face Transformers (SmolVLM, MarianMT) · FastAPI · SQLite · ReportLab · JavaScript
+**Repository:** [decriscene](https://github.com/ilyasoulmidi/decriscene)
+
+</details>
+
+<details open>
 <summary><b>🛡️ Real-Time Network Intrusion Detection & Alerting</b> · <i>2026</i></summary>
 
 <br/>
@@ -250,6 +262,21 @@ A complete BI solution to steer the school: a Python pipeline generates **13 rea
 <img src="https://img.shields.io/badge/Airflow-7C3AED?style=flat-square&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-4338CA?style=flat-square&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-312E81?style=flat-square&logo=powerbi&logoColor=white" />
+
+<br/>
+
+### 🇫🇷 SAP AMOA Consultant Intern — Winbey IT
+**France** · `August 2025`
+
+**POS → SAP integration for L'Oréal / AESOP Canada**
+
+* Designed and validated **POS → SAP interface files** to ensure consistency of sales, payments and consignment stock movements, for **L'Oréal**, as part of the opening of an **AESOP store in Canada**.
+* Integrated the **4 consignment flows** (Fill-Up, Issue, Return, Pick-Up) into **SAP**: qualified functional and technical defects, followed up on fixes and updates.
+
+<img src="https://img.shields.io/badge/SAP-6D28D9?style=flat-square&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/AMOA-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/POS%20Integration-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Functional%20Testing-4338CA?style=flat-square" />
 
 <br/>
 
