@@ -265,7 +265,7 @@ A complete BI solution to steer the school: a Python pipeline generates **13 rea
 
 <br/>
 
-### 🇫🇷 SAP AMOA Consultant Intern — Winbey IT
+### 🇫🇷 SAP AMOA Consultant Intern — 
 **France** · `August 2025`
 
 **POS → SAP integration for L'Oréal / AESOP Canada**
